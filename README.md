@@ -14,8 +14,7 @@ It helps you stay productive using the Pomodoro technique:
 ✅ Progress checkmarks  
 
 ## Screenshot
-*(Add your app screenshot here once you have one!)*
-
+![Pomodoro Timer Screenshot](screenshots/screenshot.png)
 ## Installation & Run
 Clone the repository:
 ```bash
