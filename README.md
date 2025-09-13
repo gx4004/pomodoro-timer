@@ -18,11 +18,6 @@ It helps you stay productive using the **Pomodoro technique**:
 
 ---
 
-## 📸 Screenshot
-![Pomodoro Timer Screenshot](screenshots/screenshot.png)
-
----
-
 ## ⚙️ Installation & Run
 
 Clone the repository:
